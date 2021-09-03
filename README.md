@@ -1,4 +1,4 @@
-# Matlab---Solving-system-of-linear-equations
+# Matlab Solving system of linear equations
 Solving system of linear equations using Matlab in different methods.
 
 1. Gauss Elemination
